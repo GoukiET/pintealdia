@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+.menu {
+    background-color: #FFF159;
+}
+
+.pagos {
+    background-color: #FFFFFF;
+}
+
+.h1 {
+    color: #FFFFFF;
+}
+
+/* .imagenes {
+    width: 286px; 
+    height: 214px;
+} */
